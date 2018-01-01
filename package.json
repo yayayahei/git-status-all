@@ -1,0 +1,20 @@
+{
+  "name": "git-status-all",
+  "version": "1.0.1",
+  "description": "check all change at current directory. This project refers to git-pull-all",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "~0.9.0"
+  },
+  "bin": {
+    "git-status-all": "cli.js"
+  },
+  "devDependencies": {
+    "git-pull-all": "^0.1.4"
+  }
+}
