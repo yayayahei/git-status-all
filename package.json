@@ -1,6 +1,6 @@
 {
   "name": "git-status-all",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "check all change at current directory. This project refers to git-pull-all",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "type": "git",
     "url": "https://github.com/yayayahei/git-status-all.git"
   },
-  "keywords":[
+  "keywords": [
     "git",
     "status",
     "all",
