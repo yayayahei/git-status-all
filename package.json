@@ -1,6 +1,6 @@
 {
   "name": "git-status-all",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "check all change at current directory. This project refers to git-pull-all",
   "main": "index.js",
   "scripts": {
