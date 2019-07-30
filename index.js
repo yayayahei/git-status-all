@@ -1,5 +1,4 @@
 var exec = require('child_process').exec;
-// var fs = require('fs');
 const fs = require('fs');
 var join = require('path').join;
 var basename = require('path').basename;
